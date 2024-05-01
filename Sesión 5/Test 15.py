@@ -11,7 +11,7 @@ class Carro:
         self.aceleracion = aceleracion
         self.velocidad = 0
 
-        """Mérodos: Son las funciones de la clase"""
+        """Métodos: Son las funciones de la clase"""
     def acelerar(self):
         self.velocidad = self.velocidad + self.aceleracion
 
